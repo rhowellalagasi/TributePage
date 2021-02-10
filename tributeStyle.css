@@ -1,0 +1,44 @@
+#main{
+	width: 98%;
+	margin: auto;
+	border: 10px solid;
+	background-color: #e6e6e6;
+}
+
+#title{
+	font-family: sans-serif;
+	text-align: center;
+}
+
+#one{
+	text-align: center;
+}
+
+#img-div{
+	border:50px solid #555;
+	text-align: center;
+}
+
+h2{
+	font-family: monospace;
+	text-align: center;
+	font-size: 15pt;
+}
+
+#tribute-info{
+	font-size: 13pt;
+	font-family: serif;
+	margin-left: 50px;
+	margin-right: 50px;
+}
+
+#quote{
+	text-align: center;
+	margin-left: 100px;
+	margin-right: 100px;
+	font-family: monospace;
+}
+
+#tribute-link{
+	text-align: center;
+}
